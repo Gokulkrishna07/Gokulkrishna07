@@ -22,11 +22,37 @@ A Full Stack Developer skilled in React & Node.js, with growing experience in Cl
 
 ---
 
+## 🚧 Featured Projects
+
+### ☁️ Terraform – Infrastructure as Code (AWS)
+**Tech:** Terraform • AWS • Infrastructure as Code  
+
+- Automated cloud infrastructure provisioning using Terraform  
+- Modular, reusable IaC design for multiple environments  
+- Enables consistent, repeatable, and scalable deployments  
+
+🔗 **Repository:**  
+👉 https://github.com/Gokulkrishna07/terraform-infra-aws *(rename recommended)*
+
+---
+
+### 🐳 Outline Wiki – Docker Compose Deployment
+**Tech:** Docker • Docker Compose • Nginx • PostgreSQL  
+
+- Containerized deployment of **Outline Wiki** using Docker Compose  
+- Multi-service orchestration with app, database, and reverse proxy  
+- Simplified local and server-side deployment  
+
+🔗 **Repository:**  
+👉 https://github.com/Gokulkrishna07/outline-docker-compose.git
+
+---
+
 ## 🌱 Currently Learning
 
-- Artificial Intelligence (**Beginner level**)
-- MLOps (model deployment & monitoring basics)
-- Terraform (Infrastructure as Code)
+- Artificial Intelligence (**Beginner level**)  
+- MLOps (model deployment & monitoring basics)  
+- Terraform (Infrastructure as Code)  
 
 ---
 
