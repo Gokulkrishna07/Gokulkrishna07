@@ -15,7 +15,7 @@ A Full Stack Developer skilled in React & Node.js, with growing experience in Cl
 ## 🚀 What I Build
 
 - ⚡ Scalable web applications using **React, Node.js & Microservices**
-- ☁️ Cloud-native deployments on **AWS, Azure & GCP**
+- ☁️ Cloud-native deployments on **AWS**
 - 🔁 CI/CD pipelines using **Docker, Jenkins & GitHub Actions**
 - 📊 Monitoring & observability with **Grafana, ELK & Prometheus**
 - 🧠 Exploring **AI, MLOps & Infrastructure as Code (Terraform)**
