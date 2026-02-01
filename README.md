@@ -36,6 +36,22 @@ A Full Stack Developer skilled in React & Node.js, with growing experience in Cl
 
 ---
 
+### 💸 Cloud Cost Tracker – AWS Cost Prediction System
+**Tech:** Python • Machine Learning • AWS • Cost Explorer • Pandas  
+
+- Predicts future **AWS cloud costs** using historical billing and usage data  
+- Identifies **spending trends, anomalies, and potential cost overruns**  
+- Designed as a **lightweight, real-world cloud cost monitoring system**  
+- Can be extended with alerts, dashboards, and automated cost optimization  
+
+🔗 **Repository:**  
+👉 https://github.com/Gokulkrishna07/cloud-cost-tracker  
+
+🌐 **Live Demo:**  
+👉 http://103.49.125.28:8501/
+
+---
+
 ### 🐳 Outline Wiki – Docker Compose Deployment
 **Tech:** Docker • Docker Compose • Nginx • PostgreSQL  
 
