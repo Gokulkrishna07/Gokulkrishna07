@@ -32,7 +32,7 @@ A Full Stack Developer skilled in React & Node.js, with growing experience in Cl
 - Enables consistent, repeatable, and scalable deployments  
 
 🔗 **Repository:**  
-👉 https://github.com/Gokulkrishna07/terraform-infra-aws *(rename recommended)*
+👉 https://github.com/Gokulkrishna07/terraform-infra-aws
 
 ---
 
