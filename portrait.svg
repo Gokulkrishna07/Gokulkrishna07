@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="428" height="418" viewBox="0 0 428 418">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="1.6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect x="0.5" y="0.5" width="427" height="417" rx="14" fill="#0d1117" stroke="#30363d"/>
+  <g font-family="Cascadia Code, Consolas, 'Segoe UI Symbol', monospace" font-size="15" filter="url(#glow)">
+    <text x="28" y="43.0" fill="url(#grad)">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⢀⠀⢀⠀⠀⡀⠀⡀⠀⡀⢀⠀⠄⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠂</text><text x="28" y="58.8" fill="url(#grad)">⠀⠀⠂⠈⠀⠐⠈⠀⠈⠀⠁⠈⠀⠁⠀⡀⢀⠠⠀⠀⠂⠀⡀⠠⠀⢀⠠⠀⠐⠀⠂⠐⠀⠂⠄⠁⠄⠁⠌⡀</text><text x="28" y="74.5" fill="url(#grad)">⠀⠀⠠⠀⠠⠀⠀⠄⠂⠀⠂⠐⠀⠁⢀⠀⢀⠀⠀⠂⠀⢁⠀⠠⠀⡀⠀⠄⠈⡀⢁⠈⡀⠁⠄⢁⠠⠁⠄⠠</text><text x="28" y="90.2" fill="url(#grad)">⠀⠀⡀⠀⠀⢀⠀⠀⢀⠠⠀⠄⠂⠈⢀⠀⢄⢄⣁⣤⣷⣷⣶⣦⡂⠄⣐⠀⠂⠀⠄⠠⠐⠈⠀⠄⠠⠐⠈⠀</text><text x="28" y="106.0" fill="url(#grad)">⠀⠀⠀⠀⠈⠀⠀⠀⡀⢀⢠⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⣿⣾⣿⣷⠐⡁⠠⠐⠀⡈⢀⠂⠐⠀⠌⢀</text><text x="28" y="121.8" fill="url(#grad)">⠀⠀⠐⠀⠀⠠⠀⠀⣠⣳⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣬⡀⠄⠂⠀⠄⠐⠈⠠⠈⡀</text><text x="28" y="137.5" fill="url(#grad)">⠀⠀⠠⠀⠀⡀⠀⣐⣾⣿⣿⣿⣿⣿⣿⣿⣿⢿⢿⢿⣻⢟⡿⡿⣿⣿⣿⣿⣿⣿⣟⠄⠂⠁⠠⠈⡀⠂⠁⡀</text><text x="28" y="153.2" fill="url(#grad)">⠀⠀⠀⠀⠀⠀⢰⡿⣿⣿⣿⣿⣿⣿⡻⣝⢮⡳⣝⢵⢕⣝⢎⢧⢣⠫⣿⣿⣿⢯⡿⣷⠀⡁⠐⠀⠄⢈⠠⠀</text><text x="28" y="169.0" fill="url(#grad)">⠀⠀⠀⠁⠀⠀⡣⣿⣿⣿⣿⣿⣻⣪⢞⡮⡳⡕⣇⢗⡳⡕⡏⡇⡇⠕⢝⣿⣿⢷⣻⣝⡀⠀⠄⠁⠠⠀⠄⠂</text><text x="28" y="184.8" fill="url(#grad)">⠀⠀⠀⠄⠀⢠⢙⣿⣿⣿⣿⡗⣗⣵⡽⣜⡮⡺⣸⢪⢞⢟⢟⢿⢳⠥⡑⠽⣿⢽⣯⢿⣦⣁⢄⢈⢀⠂⠐⠀</text><text x="28" y="200.5" fill="url(#grad)">⠀⠀⠀⠀⠀⠀⢾⣿⣿⣿⣿⢽⣻⣫⣿⣿⣮⢯⡺⡸⣼⣾⢿⣿⢖⡄⠀⠊⢽⣟⣾⢾⣿⢧⣳⣝⣜⡭⡳⣕</text><text x="28" y="216.2" fill="url(#grad)">⠀⠀⠀⠁⠀⡀⠉⠻⣿⣿⣿⢕⣷⣟⣿⢿⣿⢿⡱⡹⡽⣻⡽⡭⡅⡇⡇⠡⠘⡿⡉⡭⣿⣿⣿⣿⣿⣿⣿⣿</text><text x="28" y="232.0" fill="url(#grad)">⠀⠀⠀⠂⠀⠀⠀⠀⠈⢿⣿⢸⢺⢜⢞⡽⣝⢵⢕⢕⢍⢮⡪⡇⡗⡕⠅⡁⠀⡟⣔⠭⣯⣻⣿⣿⣿⣿⣿⣿</text><text x="28" y="247.8" fill="url(#grad)">⠀⠀⠠⠀⠀⠐⠀⠀⡀⢹⣿⡪⡣⡳⡕⡧⣳⣱⢕⢕⣨⡘⡺⣜⢎⢊⠐⠀⠀⡇⢋⢺⣿⣿⣿⣿⣿⣿⣿⣿</text><text x="28" y="263.5" fill="url(#grad)">⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⡫⣞⢮⢺⡪⡯⣺⣟⣿⣾⣷⣯⢽⣜⢜⠠⠐⠀⠌⣦⣥⣾⣿⣿⣿⣿⣿⣿⣿⣿</text><text x="28" y="279.2" fill="url(#grad)">⠀⠀⠀⠐⠈⠀⠀⠀⠀⠀⠸⠵⣳⡳⣽⣾⣿⣿⣿⣿⣿⣻⣿⣿⣷⠀⡂⠡⠨⣿⡿⣿⣿⣿⣿⣿⣿⣿⣿⣿</text><text x="28" y="295.0" fill="url(#grad)">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⠈⣻⣾⣺⢿⢿⢿⣿⣿⣽⣝⡭⡫⡣⠁⠀⡡⢑⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿</text><text x="28" y="310.8" fill="url(#grad)">⠀⠀⠀⠀⠂⠀⠀⠄⠀⠀⠀⠀⠈⢻⣷⣫⢿⢽⣻⣿⣿⣟⣞⢜⠄⢄⢥⠊⠐⣯⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿</text><text x="28" y="326.5" fill="url(#grad)">⠀⠀⠀⠄⠀⢀⠀⠀⠀⠀⠐⠀⠀⠀⠈⢿⣯⣿⣿⣿⣿⣿⣿⣶⡯⡯⡱⠐⠈⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿</text><text x="28" y="342.2" fill="url(#grad)">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠂⠀⠀⢀⠀⣀⣝⡽⣿⣿⣿⣿⣿⣿⡳⣕⢽⢜⢌⠄⣿⣿⡿⣿⣿⣿⣿⣿⣿⣿⣿</text><text x="28" y="358.0" fill="url(#grad)">⠀⠀⠈⠀⠀⠂⠀⠈⠀⠀⠀⠄⢠⣾⣿⡷⡽⣺⣺⢽⡽⣯⢾⣝⡮⡯⣺⢜⣼⣾⣿⢝⡺⣿⣿⣿⣿⣿⣿⣿</text><text x="28" y="373.8" fill="url(#grad)">⠀⠀⠀⠂⠀⠠⠐⠀⠀⠈⠀⣰⣿⣿⣿⣿⣽⣳⢽⢽⢽⢯⣟⣮⢯⣯⣷⣿⣿⣿⡽⣝⣗⣎⡻⣿⣿⣿⣿⣿</text><text x="28" y="389.5" fill="url(#grad)">⠀⠀⠁⠀⠀⡀⠀⡀⣈⣴⣾⣿⣾⣿⣿⣿⣿⣾⡽⡽⡽⣽⢾⣺⣻⣾⣿⣿⣿⣿⣿⣷⣳⡳⣷⣟⣯⡿⡿⣿</text>
+  </g>
+</svg>
