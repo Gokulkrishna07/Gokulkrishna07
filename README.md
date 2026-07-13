@@ -10,6 +10,10 @@ A Full Stack Developer skilled in React & Node.js, with growing experience in Cl
   </a>
 </p>
 
+<p align="center">
+  <img src="./portrait-stipple.png" alt="stippled portrait" width="360"/>
+</p>
+
 ---
 
 ## 🚀 What I Build
